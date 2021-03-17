@@ -3,8 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      안녕하세요!
+    <div>
+      {
+        /* 주석 테스트 */
+      }
+      <h1>안녕하세요!</h1>
     </div>
   );
 }
